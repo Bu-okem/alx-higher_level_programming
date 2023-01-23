@@ -9,11 +9,11 @@ def add_tuple(tuple_a=(), tuple_b=()):
         if i >= len_a:
             a = 0
         else:
-            a = tuple(a)[i]
+            a = tuple_a[i]
         if i >= len_b:
             b = 0
         else:
-            b = tuple(b)[i]
+            b = tuple_b[i]
 
         if i == 0:
             new_tuple = (a + b)
