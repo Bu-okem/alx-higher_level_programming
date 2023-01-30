@@ -2,6 +2,8 @@
 '''                                                                             Created on Monday Jan 30 2023                                                   author: Chibuokem Obiegbulem                           
 '''
 class Square:
+
+
     '''
     class Square that defines a square
     '''
