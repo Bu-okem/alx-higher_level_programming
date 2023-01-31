@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 '''
 Created on Mon Jan 31 2023
 Author: Chibuokem Obiegbulem
