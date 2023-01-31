@@ -2,6 +2,14 @@
 '''
 Created on Tue Jan 31 2023
 Author: Chibuokem Obiegbulem
+
+This module provides a Rectangle class that represents a rectangle with
+properties width and height, and methods area and perimeter for calculating
+the area and perimeter of the rectangle, respectively. The width and height
+of the rectangle must be integers, and can be set and retrieved through the
+width and height properties. In case the width or height is set to a
+non-integer value or a negative number, a TypeError or ValueError will be
+raised, respectively
 '''
 
 
