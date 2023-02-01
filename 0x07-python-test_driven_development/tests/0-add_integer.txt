@@ -1,0 +1,26 @@
+'Test for 0-add_integer module'
+'Fuction to test: add_integer()'
+
+positive integer values
+add_integer(2, 4)
+6
+
+negative integer values
+add_integer(-3, -2)
+-5
+
+positive floating values
+add_integer(2.3, 5.4)
+7.7
+
+negative floating values
+add_integer(-3.2, -4.3)
+-7.5
+
+a is string
+add_integer("2", 3)
+"TypeError: a must be an integer"
+
+b is a string
+add_integer(2, "3")
+"TypeError: b must be an integer"
