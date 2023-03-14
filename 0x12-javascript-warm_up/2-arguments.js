@@ -5,5 +5,5 @@ if (arg > 3) {
 } else if (arg === 3) {
   console.log('Argument found');
 } else {
-  console.log('No arguments');
+  console.log('No argument');
 }
