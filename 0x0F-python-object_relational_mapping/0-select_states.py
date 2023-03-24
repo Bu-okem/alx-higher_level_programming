@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-'''
-   script that lists all states from the database hbtn_0e_0_usa 
-'''
+"""
+   script that lists all states from the database hbtn_0e_0_usa
+   @author: Chibuokem Obiegbulem
+"""
 import MySQLdb
 import sys
 
