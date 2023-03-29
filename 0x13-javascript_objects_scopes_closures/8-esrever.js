@@ -6,5 +6,5 @@ exports.esrever = function (list) {
   while (list.length > 0) {
     reversed_list.push(list.pop());
   }
-  return rlist;
+  return reversed_list;
 };
