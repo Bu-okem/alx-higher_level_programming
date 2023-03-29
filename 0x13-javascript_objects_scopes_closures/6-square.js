@@ -7,7 +7,7 @@ class Square extends square {
     if (c === undefined) {
       c = 'X';
     }
-    const n = 0;
+    let n = 0;
     while (n < this.height) {
       console.log(c.repeat(this.width));
       n++;
