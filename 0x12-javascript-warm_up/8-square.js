@@ -4,8 +4,8 @@ let n = 0;
 
 if (!isNaN(size)) {
   while (n < size) {
-      console.log('X'.repeat(size));
-      n++;
+    console.log('X'.repeat(size));
+    n++;
   }
 } else {
   console.log('Missing size');
