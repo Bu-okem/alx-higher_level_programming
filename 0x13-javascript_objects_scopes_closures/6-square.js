@@ -10,6 +10,7 @@ class Square extends square {
     const n = 0;
     while (n < this.height) {
       console.log(c.repeat(this.width));
+      n++;
     }
   }
 }
